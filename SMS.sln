@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMS.API", "SMS.API\SMS.API.csproj", "{597F81E0-C875-4DD6-AF04-85147F3BF96B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMS.Business", "SMS.Business\SMS.Business.csproj", "{5C30D8A2-6FAF-4290-BEE5-7DC4A5D6997B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMS.Data", "SMS.Data\SMS.Data.csproj", "{D388D691-6D17-4B3C-9A12-AF7542830D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{597F81E0-C875-4DD6-AF04-85147F3BF96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597F81E0-C875-4DD6-AF04-85147F3BF96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597F81E0-C875-4DD6-AF04-85147F3BF96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597F81E0-C875-4DD6-AF04-85147F3BF96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C30D8A2-6FAF-4290-BEE5-7DC4A5D6997B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C30D8A2-6FAF-4290-BEE5-7DC4A5D6997B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C30D8A2-6FAF-4290-BEE5-7DC4A5D6997B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C30D8A2-6FAF-4290-BEE5-7DC4A5D6997B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D388D691-6D17-4B3C-9A12-AF7542830D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D388D691-6D17-4B3C-9A12-AF7542830D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D388D691-6D17-4B3C-9A12-AF7542830D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D388D691-6D17-4B3C-9A12-AF7542830D60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE70A0E-4169-4DC0-AA04-7273F3641EF8}
+	EndGlobalSection
+EndGlobal
